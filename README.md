@@ -47,6 +47,7 @@ NOTE: For all data analysis steps, the step should be completed twice, once for 
 
 # Machine Learning
 Predict elo based on opening played.
+Predict final stockfish score based on opening played.
 
 # Interpret
 Interpret the results and comment on what they mean.
