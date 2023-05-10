@@ -1,5 +1,5 @@
 # CMSC320 Final Project by Viraj Boreda, Ayush Sood, Ishan Gopalani, Eric Huang
-
+https://ayushsood03.github.io/
 # WORKFLOW:
 Create a local branch, edit the ipynb (make sure to add text description of what you did), run the ipynb to html script, git pull master into your branch, push to remote, make a pull request.
 
